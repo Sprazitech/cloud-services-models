@@ -90,6 +90,8 @@ Microsoft Azure provides a diverse range of cloud computing services, including:
 
 **Developer Tools:** Azure DevOps, Azure Resource Manager, GitHub Actions for Azure.
 
+
+
 **3. Set up a managed service like AWS Elastic Beanstalk** 
 
-When i tried setting up my AWSS Elstic Beanstalk, I discovered that my Sandbox don't have the authorization to set up AWS Elastic Beanstalk.
+When i tried setting up my AWS Elstic Beanstalk, I discovered that my Sandbox don't have the authorization to set up AWS Elastic Beanstalk.
