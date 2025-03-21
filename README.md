@@ -1,8 +1,10 @@
 # Cloud Service Providers and Models.
 
 **Identify examples of IaaS, PaaS, and SaaS from your daily interactions**
+
 **1. Infrastructure as a Service (IaaS)**
- Example: AWS EC2 (Elastic Compute Cloud)
+
+Example: AWS EC2 (Elastic Compute Cloud)
 
 When you spin up a virtual machine (VM) on AWS, you’re using IaaS.
 It gives you raw infrastructure like servers, storage, and networking, but you manage the OS and apps.
@@ -12,7 +14,9 @@ Other Examples:
 Google Compute Engine (GCE).
 Microsoft Azure Virtual Machines.
 
+
 **2. Platform as a Service (PaaS)**
+
 Example: Heroku
 
 If you deploy an app on Heroku, you don’t worry about managing servers, just your code.
@@ -24,7 +28,9 @@ AWS Elastic Beanstalk.
 Google App Engine.
 Microsoft Azure App Services.
 
+
 **3. Software as a Service (SaaS).**
+
 Example: Gmail.
 
 You don’t need to install or maintain an email server—just log in and use it.
@@ -37,7 +43,9 @@ Dropbox (Cloud Storage).
 Netflix (Streaming Service).
 
 
+
 **Present the offerings of at least two major cloud providers.**
+
 
 **Amazon Web Services (AWS):**
 
@@ -60,7 +68,9 @@ AWS provides a wide range of cloud computing services, including:
 **Developer Tools:** AWS CodePipeline, AWS CloudFormation.
 
 
+
 **Microsoft Azure:**
+
 
 **2. Popular Services Offered by Azure**
 
